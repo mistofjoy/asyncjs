@@ -1,0 +1,16 @@
+{
+  "name": "asyncjs",
+  "version": "1.0.0",
+  "description": "Practica de asincronismo con JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "Callback",
+    "Promise",
+    "Async"
+  ],
+  "author": "mistofjoy",
+  "license": "MIT"
+}
